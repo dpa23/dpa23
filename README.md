@@ -6,6 +6,6 @@ Egresado de la Universidad de Piura, enfocado en sistemas, programación y cienc
 </p>
 
 ### Experiencia en git
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&layout=compact&include_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&layout=compact&include_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpa23&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=dpa23&show_icons=true&theme=transparent)
