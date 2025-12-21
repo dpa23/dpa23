@@ -1,4 +1,4 @@
-## Hi there 👋
+## Perfil Profesional 
 
 <!--
 **dpa23/dpa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Experiencia en git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&layout=compact)
