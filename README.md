@@ -10,3 +10,6 @@ Egresado de la Universidad de Piura, enfocado en sistemas, programación y cienc
 ![](https://github-readme-stats.vercel.app/api?username=dpa23&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dpa23&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&theme=onedark&layout=donut&langs_count=8&count_private=true" />
+</p>
