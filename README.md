@@ -11,5 +11,7 @@ Egresado de la Universidad de Piura, enfocado en sistemas, programación y cienc
 ![](https://nirzak-streak-stats.vercel.app/?user=dpa23&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpa23&layout=compact&theme=onedark&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpa23&theme=onedark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpa23&theme=onedark" />
+</p>
